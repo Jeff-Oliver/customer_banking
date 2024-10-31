@@ -31,5 +31,7 @@ def main():
     # ADD YOUR CODE HERE
 
 if __name__ == "__main__":
-    # Call the main function. Exercise 03.1.04
+    # Call the main function. Exercise 03.1.04 car_loan_calcular
+    new_account_value = (
 
+    )
