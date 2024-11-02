@@ -130,7 +130,7 @@ The interest earned is passed to the set balance method using the instance of th
 
 The updated balance and interest earned are returned by the function. (5 points)
 
-Create the CD Account Function (35 points)
+### Create the CD Account Function (35 points)
 The Account class from the Accounts.py file is imported. (4 points)
 
 In the create_cd_account function, an instance of the Account class is created and the balance and interest parameters are passed to the Account class. (6 points)
