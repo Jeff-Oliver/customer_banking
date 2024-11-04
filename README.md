@@ -54,7 +54,7 @@ In the create_savings_account function do the following:
 
 7. [x] Pass the interest earned to the set interest method using the instance of the Account class.
 
-8. [] Return the updated balance and interest earned.
+8. [x] Return the updated balance and interest earned.
 
 ## Part 2
 ### Create the CD Account Function
@@ -62,50 +62,50 @@ Open the cd_account.py file, and do the following:
 
 #### 1. [x] Import the Account class from the Accounts.py file.
 
-#### 2. [] In the create_cd_account function, do the following:
+#### 2. [x] In the create_cd_account function, do the following:
 
-3. [] Create an instance of the Account class and pass in the parameters.
+3. [x] Create an instance of the Account class and pass in the parameters.
 
-4. [] Calculate interest earned.
+4. [x] Calculate interest earned.
 
-5. [] Update the savings account balance by adding the interest earned.
+5. [x] Update the savings account balance by adding the interest earned.
 
 >#### hint
 >You will need to use 0 for the amount of interest to set the balance before you pass the interest earned to the set interest method.
 
-6. [] Pass the updated balance to the set balance method using the instance of the Account class.
+6. [x] Pass the updated balance to the set balance method using the instance of the Account class.
 
-7. [] Pass the interest earned to the set interest method using the instance of the Account class.
+7. [x] Pass the interest earned to the set interest method using the instance of the Account class.
 
-8. [] Return the updated balance and interest earned.
+8. [x] Return the updated balance and interest earned.
 
 ## Part 3
 #### Create the Main Function
 Open the customer_banking.py file, and do the following:
 
-1. [] Import the create_cd_account and create_savings_account functions from the appropriate files.
+1. [x] Import the create_cd_account and create_savings_account functions from the appropriate files.
 
 #### In the main function, do the following:
 
-2. [] Prompt the user to set the savings balance, interest rate, and months for the savings account.
+2. [x] Prompt the user to set the savings balance, interest rate, and months for the savings account.
 
 >#### hint
 >Make sure that the values are the appropriate data types.
 
-3. [] Call the create_savings_account function and pass in the variables from the user.
+3. [x] Call the create_savings_account function and pass in the variables from the user.
 
-4. [] Print out the interest earned and updated savings account balance with interest earned for the given months.
+4. [x] Print out the interest earned and updated savings account balance with interest earned for the given months.
 
-5. [] Prompt the user to set the CD balance, interest rate, and months for the CD account.
+5. [x] Prompt the user to set the CD balance, interest rate, and months for the CD account.
 
 >#### hint
 >Make sure that the values are the appropriate data types.
 
-6. [] Call the create_cd_account function and pass the variables to the function used to prompt the user from the user.
+6. [x] Call the create_cd_account function and pass the variables to the function used to prompt the user from the user.
 
-7. [] Print out the interest earned and updated CD account balance with interest earned for the given months.
+7. [x] Print out the interest earned and updated CD account balance with interest earned for the given months.
 
-8. [] Call the main function.
+8. [x] Call the main function.
 
 >#### Hints and Considerations
 >Consider what you've learned so far. You’ve learned how to create and import functions, pass arguments and variables into functions, refactor code, create and import class, create class methods, and instances.
